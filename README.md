@@ -50,7 +50,7 @@ Dashboard Preview
 <img width="942" height="531" alt="Marketing VIew" src="https://github.com/user-attachments/assets/876bc75d-2fa7-4b3c-b2a2-a2eec42f6e73" />
 <img width="933" height="533" alt="Finance View" src="https://github.com/user-attachments/assets/33182a68-a296-4c3a-9f69-cf01872df1cd" />
 
-Live Dashboard Link - [PowerBi Business insights]([https://app.powerbi.com/view?r=eyJrIjoiMzdmMWY3YmQtYTE0ZS00ODNkLTg5YmUtYzk3NDQ5ZTdiY2I5IiwidCI6IjM2OTAwNmIzLTUwMWYtNDcyZS05MmYxLTdjYWNlNGI5NWM1NSJ9])
+Live Dashboard Link - [PowerBi Business insights]([url](https://app.powerbi.com/view?r=eyJrIjoiMzdmMWY3YmQtYTE0ZS00ODNkLTg5YmUtYzk3NDQ5ZTdiY2I5IiwidCI6IjM2OTAwNmIzLTUwMWYtNDcyZS05MmYxLTdjYWNlNGI5NWM1NSJ9))
 
 
 
